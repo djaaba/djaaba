@@ -1,7 +1,3 @@
-<p align='center'>
-  <img width='400px' height='225px' src="https://media.tenor.com/mqzuK_iOjzYAAAAC/leonardo-dicaprio-cheers.gif" alt="Лабрадор в свитере печатает на компьютере">
-</p>
-
 <h1 align="center">
   Привет, меня зовут Даниил
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
